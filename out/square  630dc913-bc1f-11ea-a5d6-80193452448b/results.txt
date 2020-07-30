@@ -1,0 +1,80 @@
+img: square 1.png 
+Boxes Touched: 2
+Total boxes: 2
+log(N): 0.6931471805599453
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: square 2.png 
+Boxes Touched: 4
+Total boxes: 4
+log(N): 1.3862943611198906
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: square 3.png 
+Boxes Touched: 9
+Total boxes: 8
+log(N): 2.1972245773362196
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: square 4.png 
+Boxes Touched: 16
+Total boxes: 16
+log(N): 2.772588722239781
+log(x): 2.772588722239781
+
+------------------------------
+
+img: square 5.png 
+Boxes Touched: 42
+Total boxes: 32
+log(N): 3.7376696182833684
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: square 6.png 
+Boxes Touched: 144
+Total boxes: 64
+log(N): 4.969813299576001
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: square 7.png 
+Boxes Touched: 529
+Total boxes: 128
+log(N): 6.270988431858299
+log(x): 4.852030263919617
+
+------------------------------
+
+img: square 8.png 
+Boxes Touched: 2601
+Total boxes: 256
+log(N): 7.8636512654486515
+log(x): 5.545177444479562
+
+------------------------------
+
+img: square 9.png 
+Boxes Touched: 10000
+Total boxes: 512
+log(N): 9.210340371976184
+log(x): 6.238324625039508
+
+------------------------------
+
+img: square 10.png 
+Boxes Touched: 39601
+Total boxes: 1024
+log(N): 10.586609649448985
+log(x): 6.931471805599453
+
+------------------------------
+

@@ -1,0 +1,80 @@
+img: eltri 1.png 
+Boxes Touched: 4
+Total boxes: 2
+log(N): 1.3862943611198906
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: eltri 2.png 
+Boxes Touched: 12
+Total boxes: 4
+log(N): 2.4849066497880004
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: eltri 3.png 
+Boxes Touched: 45
+Total boxes: 8
+log(N): 3.8066624897703196
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: eltri 4.png 
+Boxes Touched: 127
+Total boxes: 16
+log(N): 4.844187086458591
+log(x): 2.772588722239781
+
+------------------------------
+
+img: eltri 5.png 
+Boxes Touched: 390
+Total boxes: 32
+log(N): 5.966146739123692
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: eltri 6.png 
+Boxes Touched: 1187
+Total boxes: 64
+log(N): 7.079184394609668
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: eltri 7.png 
+Boxes Touched: 3923
+Total boxes: 128
+log(N): 8.274611946209552
+log(x): 4.852030263919617
+
+------------------------------
+
+img: eltri 8.png 
+Boxes Touched: 14007
+Total boxes: 256
+log(N): 9.547312483639047
+log(x): 5.545177444479562
+
+------------------------------
+
+img: eltri 9.png 
+Boxes Touched: 60818
+Total boxes: 512
+log(N): 11.015641076770905
+log(x): 6.238324625039508
+
+------------------------------
+
+img: eltri 10.png 
+Boxes Touched: 189886
+Total boxes: 1024
+log(N): 12.154179171070592
+log(x): 6.931471805599453
+
+------------------------------
+

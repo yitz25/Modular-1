@@ -1,0 +1,80 @@
+img: alfombra 1.png 
+Boxes Touched: 4
+Total boxes: 2
+log(N): 1.3862943611198906
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: alfombra 2.png 
+Boxes Touched: 16
+Total boxes: 4
+log(N): 2.772588722239781
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: alfombra 3.png 
+Boxes Touched: 60
+Total boxes: 8
+log(N): 4.0943445622221
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: alfombra 4.png 
+Boxes Touched: 240
+Total boxes: 16
+log(N): 5.480638923341991
+log(x): 2.772588722239781
+
+------------------------------
+
+img: alfombra 5.png 
+Boxes Touched: 924
+Total boxes: 32
+log(N): 6.828712071641684
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: alfombra 6.png 
+Boxes Touched: 3825
+Total boxes: 64
+log(N): 8.249313746260636
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: alfombra 7.png 
+Boxes Touched: 15302
+Total boxes: 128
+log(N): 9.635738817791797
+log(x): 4.852030263919617
+
+------------------------------
+
+img: alfombra 8.png 
+Boxes Touched: 75929
+Total boxes: 256
+log(N): 11.237553972095531
+log(x): 5.545177444479562
+
+------------------------------
+
+img: alfombra 9.png 
+Boxes Touched: 299297
+Total boxes: 512
+log(N): 12.60919167040265
+log(x): 6.238324625039508
+
+------------------------------
+
+img: alfombra 10.png 
+Boxes Touched: 1165747
+Total boxes: 1024
+log(N): 13.968872641216688
+log(x): 6.931471805599453
+
+------------------------------
+

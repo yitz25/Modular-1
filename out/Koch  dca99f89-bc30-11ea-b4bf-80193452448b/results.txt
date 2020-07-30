@@ -1,0 +1,80 @@
+img: Koch 1.png 
+Boxes Touched: 4
+Total boxes: 2
+log(N): 1.3862943611198906
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: Koch 2.png 
+Boxes Touched: 14
+Total boxes: 4
+log(N): 2.6390573296152584
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: Koch 3.png 
+Boxes Touched: 47
+Total boxes: 8
+log(N): 3.8501476017100584
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: Koch 4.png 
+Boxes Touched: 108
+Total boxes: 16
+log(N): 4.68213122712422
+log(x): 2.772588722239781
+
+------------------------------
+
+img: Koch 5.png 
+Boxes Touched: 259
+Total boxes: 32
+log(N): 5.556828061699537
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: Koch 6.png 
+Boxes Touched: 712
+Total boxes: 64
+log(N): 6.568077911411976
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: Koch 7.png 
+Boxes Touched: 1787
+Total boxes: 128
+log(N): 7.488293515159428
+log(x): 4.852030263919617
+
+------------------------------
+
+img: Koch 8.png 
+Boxes Touched: 5441
+Total boxes: 256
+log(N): 8.601718146485926
+log(x): 5.545177444479562
+
+------------------------------
+
+img: Koch 9.png 
+Boxes Touched: 14581
+Total boxes: 512
+log(N): 9.587474590316285
+log(x): 6.238324625039508
+
+------------------------------
+
+img: Koch 10.png 
+Boxes Touched: 45431
+Total boxes: 1024
+log(N): 10.72394997039761
+log(x): 6.931471805599453
+
+------------------------------
+

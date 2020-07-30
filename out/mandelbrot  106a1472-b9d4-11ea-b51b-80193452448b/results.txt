@@ -1,0 +1,80 @@
+img: mandelbrot 1.png 
+Boxes Touched: 4
+Total boxes: 2
+log(N): 1.3862943611198906
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: mandelbrot 2.png 
+Boxes Touched: 14
+Total boxes: 4
+log(N): 2.6390573296152584
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: mandelbrot 3.png 
+Boxes Touched: 44
+Total boxes: 8
+log(N): 3.784189633918261
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: mandelbrot 4.png 
+Boxes Touched: 111
+Total boxes: 16
+log(N): 4.709530201312334
+log(x): 2.772588722239781
+
+------------------------------
+
+img: mandelbrot 5.png 
+Boxes Touched: 364
+Total boxes: 32
+log(N): 5.8971538676367405
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: mandelbrot 6.png 
+Boxes Touched: 1290
+Total boxes: 64
+log(N): 7.162397497355718
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: mandelbrot 7.png 
+Boxes Touched: 4561
+Total boxes: 128
+log(N): 8.4252971767117
+log(x): 4.852030263919617
+
+------------------------------
+
+img: mandelbrot 8.png 
+Boxes Touched: 20501
+Total boxes: 256
+log(N): 9.928228944424575
+log(x): 5.545177444479562
+
+------------------------------
+
+img: mandelbrot 9.png 
+Boxes Touched: 76036
+Total boxes: 512
+log(N): 11.238962191326044
+log(x): 6.238324625039508
+
+------------------------------
+
+img: mandelbrot 10.png 
+Boxes Touched: 278338
+Total boxes: 1024
+log(N): 12.536591481491394
+log(x): 6.931471805599453
+
+------------------------------
+

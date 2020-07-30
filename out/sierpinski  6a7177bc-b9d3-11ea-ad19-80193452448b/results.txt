@@ -1,0 +1,80 @@
+img: sierpinski 1.png 
+Boxes Touched: 2
+Total boxes: 2
+log(N): 0.6931471805599453
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: sierpinski 2.png 
+Boxes Touched: 11
+Total boxes: 4
+log(N): 2.3978952727983707
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: sierpinski 3.png 
+Boxes Touched: 29
+Total boxes: 8
+log(N): 3.367295829986474
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: sierpinski 4.png 
+Boxes Touched: 95
+Total boxes: 16
+log(N): 4.553876891600541
+log(x): 2.772588722239781
+
+------------------------------
+
+img: sierpinski 5.png 
+Boxes Touched: 371
+Total boxes: 32
+log(N): 5.916202062607435
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: sierpinski 6.png 
+Boxes Touched: 1104
+Total boxes: 64
+log(N): 7.00669522683704
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: sierpinski 7.png 
+Boxes Touched: 3526
+Total boxes: 128
+log(N): 8.167919362957816
+log(x): 4.852030263919617
+
+------------------------------
+
+img: sierpinski 8.png 
+Boxes Touched: 13629
+Total boxes: 256
+log(N): 9.519955154427514
+log(x): 5.545177444479562
+
+------------------------------
+
+img: sierpinski 9.png 
+Boxes Touched: 45653
+Total boxes: 512
+log(N): 10.728824601278935
+log(x): 6.238324625039508
+
+------------------------------
+
+img: sierpinski 10.png 
+Boxes Touched: 158545
+Total boxes: 1024
+log(N): 11.973793743676104
+log(x): 6.931471805599453
+
+------------------------------
+

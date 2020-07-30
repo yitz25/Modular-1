@@ -1,0 +1,80 @@
+img: recta 1.png 
+Boxes Touched: 2
+Total boxes: 2
+log(N): 0.6931471805599453
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: recta 2.png 
+Boxes Touched: 4
+Total boxes: 4
+log(N): 1.3862943611198906
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: recta 3.png 
+Boxes Touched: 7
+Total boxes: 8
+log(N): 1.9459101490553132
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: recta 4.png 
+Boxes Touched: 13
+Total boxes: 16
+log(N): 2.5649493574615367
+log(x): 2.772588722239781
+
+------------------------------
+
+img: recta 5.png 
+Boxes Touched: 24
+Total boxes: 32
+log(N): 3.1780538303479458
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: recta 6.png 
+Boxes Touched: 47
+Total boxes: 64
+log(N): 3.8501476017100584
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: recta 7.png 
+Boxes Touched: 94
+Total boxes: 128
+log(N): 4.543294782270004
+log(x): 4.852030263919617
+
+------------------------------
+
+img: recta 8.png 
+Boxes Touched: 423
+Total boxes: 256
+log(N): 6.0473721790462776
+log(x): 5.545177444479562
+
+------------------------------
+
+img: recta 9.png 
+Boxes Touched: 1265
+Total boxes: 512
+log(N): 7.142827401161621
+log(x): 6.238324625039508
+
+------------------------------
+
+img: recta 10.png 
+Boxes Touched: 4211
+Total boxes: 1024
+log(N): 8.345455428161928
+log(x): 6.931471805599453
+
+------------------------------
+

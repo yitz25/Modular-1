@@ -1,0 +1,80 @@
+img: reino2 1.png 
+Boxes Touched: 4
+Total boxes: 2
+log(N): 1.3862943611198906
+log(x): 0.6931471805599453
+
+------------------------------
+
+img: reino2 2.png 
+Boxes Touched: 7
+Total boxes: 4
+log(N): 1.9459101490553132
+log(x): 1.3862943611198906
+
+------------------------------
+
+img: reino2 3.png 
+Boxes Touched: 21
+Total boxes: 8
+log(N): 3.044522437723423
+log(x): 2.0794415416798357
+
+------------------------------
+
+img: reino2 4.png 
+Boxes Touched: 55
+Total boxes: 16
+log(N): 4.007333185232471
+log(x): 2.772588722239781
+
+------------------------------
+
+img: reino2 5.png 
+Boxes Touched: 130
+Total boxes: 32
+log(N): 4.867534450455582
+log(x): 3.4657359027997265
+
+------------------------------
+
+img: reino2 6.png 
+Boxes Touched: 311
+Total boxes: 64
+log(N): 5.739792912179234
+log(x): 4.1588830833596715
+
+------------------------------
+
+img: reino2 7.png 
+Boxes Touched: 728
+Total boxes: 128
+log(N): 6.590301048196686
+log(x): 4.852030263919617
+
+------------------------------
+
+img: reino2 8.png 
+Boxes Touched: 1888
+Total boxes: 256
+log(N): 7.543273346705446
+log(x): 5.545177444479562
+
+------------------------------
+
+img: reino2 9.png 
+Boxes Touched: 4349
+Total boxes: 512
+log(N): 8.37770121259764
+log(x): 6.238324625039508
+
+------------------------------
+
+img: reino2 10.png 
+Boxes Touched: 10348
+Total boxes: 1024
+log(N): 9.24454854330592
+log(x): 6.931471805599453
+
+------------------------------
+
